@@ -1,2 +1,1 @@
-# Github-Auto-Contribution
-Github-Auto-Contribution
+This phrase improves readability
