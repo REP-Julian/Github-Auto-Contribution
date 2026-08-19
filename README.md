@@ -1,4 +1,4 @@
-> The only way to do great work is to love what you do. — Steve Jobs
+> Make it work, make it right, make it fast. — Kent Beck
 
 ---
-*Auto-updated: 2026-08-18 10:29:00*
+*Auto-updated: 2026-08-19 05:36:54*
