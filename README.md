@@ -1,4 +1,4 @@
-> Make it work, make it right, make it fast. — Kent Beck
+> Don't watch the clock; do what it does. Keep going. — Sam Levenson
 
 ---
-*Auto-updated: 2026-08-19 05:37:53*
+*Auto-updated: 2026-08-19 05:40:02*
