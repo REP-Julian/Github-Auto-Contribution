@@ -1,4 +1,4 @@
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+> Programming isn't about what you know; it's about what you can figure out. — Chris Pine
 
 ---
-*Auto-updated: 2026-08-25 18:20:07*
+*Auto-updated: 2026-08-25 18:20:15*
