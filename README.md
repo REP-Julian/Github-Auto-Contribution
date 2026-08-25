@@ -1,4 +1,4 @@
-> The only way to do great work is to love what you do. — Steve Jobs
+> In the middle of difficulty lies opportunity. — Albert Einstein
 
 ---
-*Auto-updated: 2026-08-25 18:19:41*
+*Auto-updated: 2026-08-25 18:19:50*
