@@ -1,4 +1,4 @@
-> Programming isn't about what you know; it's about what you can figure out. — Chris Pine
+> The best error message is the one that never shows up. — Thomas Fuchs
 
 ---
-*Auto-updated: 2026-08-25 18:20:15*
+*Auto-updated: 2026-08-27 09:25:02*
