@@ -1,4 +1,4 @@
-> Programming isn't about what you know; it's about what you can figure out. — Chris Pine
+> Code is like humor. When you have to explain it, it’s bad. — Cory House
 
 ---
-*Auto-updated: 2026-08-29 10:03:58*
+*Auto-updated: 2026-08-29 10:05:06*
