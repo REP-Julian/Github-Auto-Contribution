@@ -1,4 +1,4 @@
-> It always seems impossible until it's done. — Nelson Mandela
+> Before software can be reusable it first has to be usable. — Ralph Johnson
 
 ---
-*Auto-updated: 2026-09-01 15:50:55*
+*Auto-updated: 2026-09-01 15:52:04*
